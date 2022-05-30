@@ -1,6 +1,6 @@
 # Rocket
 
-A transactional UI/UX framework.
+A transactional text editor in TypeScript.
 
 ## License
 
